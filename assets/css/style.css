@@ -18,6 +18,20 @@ body {
     font-family: 'Sansita', sans-serif;
 }
 
+h1 {
+    font-family: 'Dancing Script', sans-serif;
+    text-transform: none;
+    letter-spacing: 1px;
+    color: #2F4F4F;
+}
+
+h2, h3 {
+    font-family: 'Sansita', sans-serif;
+    text-transform: none;
+    letter-spacing: 1px;
+    color: #2F4F4F;
+}
+
 /* Header */
 header {
     background-color: #F0F8FF;
@@ -34,13 +48,6 @@ header {
 header a {
     text-decoration: none;
     color: inherit;
-}
-
-h1 {
-    font-family: 'Dancing Script', sans-serif;
-    text-transform: none;
-    letter-spacing: 1px;
-    color: #2F4F4F;
 }
 
 #menu {
@@ -93,6 +100,23 @@ main {
     height: 600px;
     width: 100%;
     background: url("../images/green-car.jpg") no-repeat center center/cover;
+    position: relative;
+}
+
+#cover-text {
+    background-color: #2F4F4F;
+    font-size: 130%;
+    position: absolute;
+    bottom: 30px;
+    width: 80%;
+    min-height: 150px;
+    padding-top: 10px;
+    padding-left: 15px;
+}
+
+#cover-text > h2,
+#cover-text > h3 {
+    color: white;
 }
 
 /* Footer */
@@ -143,6 +167,13 @@ ul li i {
     main {
         /* Push main content down to accommodate larger header*/
         margin-top: 75px;
+    }
+
+    /* Hero */
+    #cover-text {
+        width: 260px;
+        right: 50px;
+        border-radius: 3%;
     }
 }
 
