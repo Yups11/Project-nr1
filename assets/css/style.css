@@ -86,10 +86,34 @@ main {
     background-color: aqua;
     /* Make main element to take any surplus to push footer down on page */
     flex: 1 0 auto;
-    margin-top: 39px;
+    margin-top: 47px;
 }
 
 /* Footer */
 footer {
     background-color: orange;
+}
+
+/* Media query: tablets and larger (768px and more) */
+@media screen and (min-width: 768px) {
+    /* Header */
+    nav {
+        display: block;
+        position:relative;
+        box-shadow: none;
+        width: fit-content;
+        padding-right: 1rem;
+    }
+
+    #menu {
+        display: flex;
+    }
+
+    #menu > li {
+        padding-left: 1rem;
+    }
+
+    .nav-toggle-label {
+        display: none;
+    }
 }
