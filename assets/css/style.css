@@ -216,6 +216,14 @@ hr {
     justify-content: center;
 }
 
+/* Media query for large phones (576px and more)*/
+@media screen and (min-width: 576px) {
+    #photos {
+        column-count: 2;
+        column-gap: 0;
+    }
+}
+
 /* Media query: tablets and larger (768px and more) */
 @media screen and (min-width: 768px) {
 
@@ -276,6 +284,11 @@ hr {
         text-align: end;
         align-self: flex-end;
     }
+
+    /* Last Jobs */
+    #photos {
+     column-count: 3;
+    }
 }
 
 /* Media query large devices : laptops and desktops (992px and more) */
@@ -283,6 +296,11 @@ hr {
     #menu a:hover {
         border-bottom: 1px solid #3a3a3a;
     }
+
+    /* Last Jobs */
+    #photos {
+        column-count: 4;
+       }
 }
 
 /* Media query 1200px and more*/
