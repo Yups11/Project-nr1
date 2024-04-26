@@ -101,6 +101,52 @@ main {
     margin-top: 41px;
 }
 
+#bookonline {
+    background-image: url(../images/bookonline-form.image.webp);
+    background-size: cover;
+    background-position: 75%;
+    padding: 50px 10% 0 10%;
+    flex-grow: 1;
+
+}
+
+#bookonline-form {
+    color: #fafafa;
+    background-color: rgba(94, 2, 2, 0.904);
+    padding: 30px;
+}
+
+#bookonline-form>h2 {
+    margin-bottom: 20px;
+    color: #7e9ab3;
+}
+
+.text-input {
+    background: transparent;
+    color: #fafafa;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 2px solid #fafafa;
+    border-radius: 2px;
+    padding: 0 5px;
+}
+
+.radio-buttons {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.join-button {
+    margin-top: 20px;
+    border-radius: 2px;
+    padding: 15px 32px;
+    font-size: 100%;
+    background-color: #7e9ab3;
+    color: #fafafa;
+}
+
 /* Hero section*/
 #hero {
     height: 600px;
@@ -258,6 +304,9 @@ hr {
     main {
         /* Push main content down to accommodate larger header*/
         margin-top: 75px;
+        display: flex;
+        flex-direction: column;
+        flex: 1 0 auto;
     }
 
     /* Hero */
@@ -287,7 +336,28 @@ hr {
 
     /* Last Jobs */
     #photos {
-     column-count: 3;
+        column-count: 3;
+    }
+
+    #bookonline {
+        background-position: center;
+        position: relative;
+    }
+
+    #bookonline-form {
+        max-width: 400px;
+        position: absolute;
+        left: 15%;
+        top: 120px;
+    }
+
+    .text-input:hover {
+        border-color: #f16c6b;
+    }
+
+    .join-button:hover {
+        background-color: #fafafa;
+        color: #7e9ab3;
     }
 }
 
@@ -300,7 +370,7 @@ hr {
     /* Last Jobs */
     #photos {
         column-count: 4;
-       }
+    }
 }
 
 /* Media query 1200px and more*/
