@@ -55,3 +55,6 @@ Yups Autocare is a website which one hope to help with sales for Headligts Resto
   - This page will allow the user to get signed up to Yups Autocare to book a headlights restoration on its car. The user will be able specify in what date is he/she available. The user will be asked to submit their full name, phone number and date. 
 
 ![Sign Up](https://github.com/Yups11/Project-nr1/blob/main/media/book-online-image-readme.png)
+
+- __Additional pages wich can be added on the future__
+-If the bussines decide to add new service on their list such as "Car wash or car paint correction", on this website can be added new page with what service bussines provide.
