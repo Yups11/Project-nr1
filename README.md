@@ -62,3 +62,10 @@ Yups Autocare is a website which one hope to help with sales for Headligts Resto
  ## Testing
   The website was tested how will look on different devices form small smarthphones to large desktops.
   Book online page was tested manualy.
+
+  ### Validator Testing 
+
+- HTML
+  - No errors were returned when passing through the official W3C validator.
+- CSS
+  - No errors were found when passing through the official Jigsaw validator.
