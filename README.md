@@ -35,3 +35,10 @@ Yups Autocare is a website which one hope to help with sales for Headligts Resto
   - This section will be updated as these times change to keep the user up to date. 
 
 ![Open Times](https://github.com/Yups11/Project-nr1/blob/main/media/open-times-image.png)
+
+- __Footer__ 
+
+  - The footer section includes links to the relevant social media sites for Yups Autocare. The links will open to a new tab to allow easy navigation for the user. 
+  - The footer is valuable to the user as it encourages them to keep connected via social media.
+
+![Footer](https://github.com/Yups11/Project-nr1/blob/main/media/footer-image-readme.png)
