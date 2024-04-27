@@ -56,5 +56,9 @@ Yups Autocare is a website which one hope to help with sales for Headligts Resto
 
 ![Sign Up](https://github.com/Yups11/Project-nr1/blob/main/media/book-online-image-readme.png)
 
-- __Additional pages wich can be added on the future__
--If the bussines decide to add new service on their list such as "Car wash or car paint correction", on this website can be added new page with what service bussines provide.
+###Additional pages wich can be added on the future
+ -If the bussines decide to add new service on their list such as "Car wash or car paint correction", on this website can be added new page with what service bussines provide.
+
+ ## Testing
+  The website was tested how will look on different devices form small smarthphones to large desktops.
+  Book online page was tested manualy.
