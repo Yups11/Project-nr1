@@ -42,3 +42,10 @@ Yups Autocare is a website which one hope to help with sales for Headligts Resto
   - The footer is valuable to the user as it encourages them to keep connected via social media.
 
 ![Footer](https://github.com/Yups11/Project-nr1/blob/main/media/footer-image-readme.png)
+
+- __Last jobs__
+
+  - The gallery of last jobs will provide the user with supporting images to see what the meet ups look like. 
+  - This section is valuable to the user as they will be able to easily identify the types work will be done.
+
+![Last jobs](https://github.com/Yups11/Project-nr1/blob/main/media/last-jobs-image-readme.png)
