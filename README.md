@@ -28,3 +28,10 @@ Yups Autocare is a website which one hope to help with sales for Headligts Resto
   - This user will see the value of book online for the headlights restoration service. This should encourage the user to consider this service as essential for its car.
 
 ![Benefits of headligts restoration](https://github.com/Yups11/Project-nr1/blob/main/media/benefits-image.png)
+
+- __Open Times section__
+
+  - This section will allow the user to see exactly when he/she can book a service. 
+  - This section will be updated as these times change to keep the user up to date. 
+
+![Open Times](https://github.com/Yups11/Project-nr1/blob/main/media/open-times-image.png)
