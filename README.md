@@ -73,7 +73,7 @@ Yups Autocare is a website which one hope to help with sales for Headligts Resto
   ### Unfixed Bugs
   No unfixed bugs
   
-  ## Deployment
+## Deployment
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab 
@@ -81,3 +81,18 @@ Yups Autocare is a website which one hope to help with sales for Headligts Resto
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
 The live link can be found here - https://yups11.github.io/Project-nr1/
+
+## Credits 
+
+I make desing and code this website form idea from Love Running project.
+
+### Content 
+
+- The text for the Home page was produced by myself.
+- Instructions on how to implement form validation on the Book Online page was taken from Code Institute tutorials
+- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+
+### Media
+
+- The photos used on the home and sign up page are from google.
+- The images used for the last jobs page was made by myself.
